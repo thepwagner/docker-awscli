@@ -1,0 +1,4 @@
+dockerBuild {
+    name = 'pwagner/awscli'
+}
+
