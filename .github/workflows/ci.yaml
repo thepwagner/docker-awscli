@@ -12,4 +12,3 @@ jobs:
         run: docker build -t pwagner/awscli .
       - name: Test
         run: docker run --rm pwagner/awscli aws --version
-      
